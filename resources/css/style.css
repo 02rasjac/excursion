@@ -19,3 +19,18 @@ header > h1 {
   color: aquamarine;
   font-size: 16px;
 }
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  padding: 1em 0;
+}
+
+.about {
+  font-size: 21px;
+  color: gray;
+}
+
+main {
+  margin-bottom: 2em;
+}
