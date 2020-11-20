@@ -23,7 +23,7 @@ header > h1 {
 h2 {
   font-weight: 300;
   font-size: 42px;
-  padding: 1em 0;
+  padding: 0.7em 0;
 }
 
 .about {
@@ -33,4 +33,10 @@ h2 {
 
 main {
   margin-bottom: 2em;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-top: 1.5em;
 }
