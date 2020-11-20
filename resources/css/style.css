@@ -40,3 +40,10 @@ img {
   margin: auto;
   margin-top: 1.5em;
 }
+
+footer {
+  text-align: right;
+  color: gray;
+  font-size: large;
+  padding: 1em;
+}
